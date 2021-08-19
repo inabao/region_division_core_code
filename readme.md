@@ -1,5 +1,5 @@
 # code reference
 
-LS, POLAR:https://www.AvailableSoon.com
+LS, POLAR:https://github.com/inabao/queue-based-order-dispatching
 
 deepst:https://github.com/TolicWang/DeepST
